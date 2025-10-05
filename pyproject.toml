@@ -1,6 +1,6 @@
 [project]
 name = "django-search-vector-model-mixin"
-version = "0.1.0"
+version = "0.1.1"
 description = "Model Mixin for Full Test Search in PostgreSQL with support of multilanguage sites"
 authors = [
     {name = "Evgenii Legotckoi",email = "evgenii.legotckoi@gmail.com"}
