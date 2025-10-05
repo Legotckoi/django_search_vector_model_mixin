@@ -1,0 +1,18 @@
+[project]
+name = "django-search-vector-model-mixin"
+version = "0.1.0"
+description = "Model Mixin for Full Test Search in PostgreSQL with support of multilanguage sites"
+authors = [
+    {name = "Evgenii Legotckoi",email = "evgenii.legotckoi@gmail.com"}
+]
+license = {text = "MIT"}
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "django (==4.2)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
