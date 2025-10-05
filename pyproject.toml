@@ -1,6 +1,6 @@
 [project]
 name = "django-search-vector-model-mixin"
-version = "0.1.1"
+version = "0.1.2"
 description = "Model Mixin for Full Test Search in PostgreSQL with support of multilanguage sites"
 authors = [
     {name = "Evgenii Legotckoi",email = "evgenii.legotckoi@gmail.com"}
@@ -23,7 +23,7 @@ classifiers = [
     "License :: OSI Approved :: MIT License",
 ]
 dependencies = [
-    "django (==4.2)"
+    "django>=4.2"
 ]
 
 [project.urls]
